@@ -1,0 +1,4 @@
+﻿  ProyectoHotel_JoseGiron.cpp
+c:\users\user\desktop\proyectohotel_josegiron\proyectohotel_josegiron\proyectohotel_josegiron.cpp(321): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\proyectohotel_josegiron\proyectohotel_josegiron\proyectohotel_josegiron.cpp(325): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ProyectoHotel_JoseGiron.vcxproj -> C:\Users\User\Desktop\ProyectoHotel_JoseGiron\Debug\ProyectoHotel_JoseGiron.exe
